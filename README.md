@@ -1,10 +1,3 @@
 # UI-UX-Experiment6
 
-## Aim:
-
-## Algorithm:
-
-
-## Output:
-
-## Result:
+[uiux_exp_6.pdf](https://github.com/user-attachments/files/23578232/uiux_exp_6.pdf)
